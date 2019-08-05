@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Ne5blink_small.gif</file>
+        <file>images/train.png</file>
+    </qresource>
+</RCC>
